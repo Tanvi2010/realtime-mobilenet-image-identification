@@ -1,0 +1,45 @@
+  .head
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Nunito', sans-serif;
+    font-size:30px;
+    color: rgb(100, 0, 104);
+  }
+  .head2
+  {
+    float:none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .head3
+  {
+    font-size: 18px ;
+    background-color: rgb(22, 3, 85);
+    color: white;
+  }
+  .resultobject
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  canvas{
+    border:5px dashed rgb(255, 0, 128);
+    margin-top:150;
+  }
+  .copy_right_footer {
+    position: fixed;
+    text-align: center;
+    bottom:0;
+    width:100%;
+    background-color:rgb(248, 123, 255);
+    color:rgb(105, 62, 246);
+    line-height:4;
+  }
+  .resultobject span {
+    white-space:pre-wrap;
+}
+ 
